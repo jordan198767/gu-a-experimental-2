@@ -1,2 +1,2 @@
-# gu-a-experimental-2
+# guia-experimental-2
 trabajo grupal
